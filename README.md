@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/145835776?s=400&u=e25a6088f14d1a2c8c7561206729800a141451d2&v=4"  />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Eng Alex Njuguna Mirii</h1>
 <h3 align="center">A passionate fullstack and android developer from kenya</h3>
 
