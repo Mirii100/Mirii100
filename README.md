@@ -42,6 +42,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirii100&show_icons=true&locale=en&layout=compact" alt="mirii100" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirii100&show_icons=true&locale=en" alt="mirii100" /></p>
+![Progress](https://img.shields.io/badge/Progress-75%25-brightgreen)
+
 
 
 
@@ -56,18 +58,6 @@
 </div>
 
 <h3 align="left">🔥   My progress :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
-
-###
-
-
 
 
 
