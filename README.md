@@ -20,11 +20,9 @@
 
 - 📫 How to reach me **njugunaalekii99@gmail.com,njugunaalekii99@yahoo.com,njugunamirii99@gmail.com**
 
-- ⚡ Fun fact **i like codding**
+- ⚡ Fun fact **i like coding**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
