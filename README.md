@@ -55,7 +55,6 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-<h3 align="left">🔥   My progress :</h3>
 
 
 
