@@ -42,15 +42,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirii100&show_icons=true&locale=en" alt="mirii100" /></p>
 
 
-
-
-
-
-
-
 <div align="center">
  
-  
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
